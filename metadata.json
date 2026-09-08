@@ -1,0 +1,6 @@
+{
+  "name": "3D Print Lab & Fulfillment Hub",
+  "description": "End-to-end 3D printing platform with instant STL file upload, interactive 3D viewer, automated quoting, workshop print queue management, courier delivery dispatch, and client status updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
